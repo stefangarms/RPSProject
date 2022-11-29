@@ -1,7 +1,6 @@
-import cv2 # open cv library
+import cv2 
 import cvzone
-import time # 
-import os # 
+import time 
 import HandTrackingModule as h_mod
 import mediapipe as mp
 import random
